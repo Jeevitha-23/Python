@@ -1,0 +1,6 @@
+#To find the maximum and minimum element in the array 
+
+def getMinMax( a, n):
+    mini = min(a)
+    maxi = max(a)
+    return(mini, maxi)
